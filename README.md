@@ -1,4 +1,4 @@
-# Parkinson-s-disease-detection
+# Parkinsons-disease-detection
 
 About Dataset
 
