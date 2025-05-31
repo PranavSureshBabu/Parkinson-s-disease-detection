@@ -8,7 +8,7 @@ Parkinson’s disease is a progressive neurological disorder that affects moveme
 
 Using a Support Vector Machine (SVM) classifier, we analyze a dataset consisting of various vocal features extracted from individuals' voice recordings. The model distinguishes between healthy individuals and those with Parkinson’s, showcasing the power of ML in the medical diagnostic domain.
 
-** Dataset Features**
+**Dataset Features**
 
 * name - ASCII subject name and recording number
 
